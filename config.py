@@ -35,7 +35,7 @@ SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "adrinolinks.in")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "1615d08dbfb51021981dc29887fcd0959c71838d")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
 IS_VERIFY = os.environ.get("IS_VERIFY", "True")
-TUT_VID = os.environ.get("TUT_VID","gojfsi/2")
+TUT_VID = os.environ.get("TUT_VID","2081499584/5")
 
 
 #force sub channel id, if you want enable force sub
